@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dilshan</h1>
-<h3 align="center">A dream fallower and a Developer</h3>
+<h1 align="center">Hi 👋, I'm Dila</h1>
+<h3 align="center">A dream fallowing Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshansankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="dilshansankalpa" /> </p>
 

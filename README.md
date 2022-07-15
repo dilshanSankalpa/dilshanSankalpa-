@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Dila</h1>
 <h3 align="center"><i>A dream fallowing Developer</i>  👣👣🕺🕺 </h3> -->
-<img src="images/astro.jpg" align="center">
+//<img src="images/astro.jpg" align="center">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshansankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="dilshansankalpa" /> </p>

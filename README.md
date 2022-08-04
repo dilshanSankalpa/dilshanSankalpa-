@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshansankalpa" alt="dilshansankalpa" /></a> </p>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1JaaewdBgEMudr1c5oxNjl6beRv04ptr0?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1JaaewdBgEMudr1c5oxNjl6beRv04ptr0?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

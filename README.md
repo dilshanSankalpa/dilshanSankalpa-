@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dila</h1>
 <h3 align="center"><i>A dream fallowing Developer</i>  👣👣🕺🕺 </h3>
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshansankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="dilshansankalpa" /> </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dila</h1>
 <h3 align="center"><i>Every great dream begins with a dreamer. So yeah i am dreamer ...... </i>  👣👣🕺🕺 </h3>
 <p align="center"> 
-<img  src="images/coding.gif" height="300px" width="400px">
+<img  src="images/coding.gif" width="100%">
 </p>
 
 ### ✍️ Random Dev Quote

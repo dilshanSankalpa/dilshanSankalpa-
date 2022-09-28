@@ -9,6 +9,10 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1JaaewdBgEMudr1c5oxNjl6beRv04ptr0?usp=sharing)
 
+<p>
+<img align="center" src="images/coding.gif" height="300px" width="400px">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dilshansankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dilshansankalpa" height="30" width="40" /></a>
@@ -22,6 +26,8 @@
 <a href="https://www.youtube.com/channel/UCX2NK2zusH60m5FQEDAeOkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilshan sankalpa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dilshansankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dilshansankalpa" height="30" width="40" /></a>
 </p>
+
+
 
 
 

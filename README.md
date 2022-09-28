@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshansankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="dilshansankalpa" /> </p>
 <p align="center"> 
 <img  src="images/code.gif" width="100%">
 </p>
@@ -5,7 +6,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshansankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="dilshansankalpa" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshansankalpa&theme=onedark" alt="dilshansankalpa" /></a> </p>
 

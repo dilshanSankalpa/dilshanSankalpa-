@@ -26,14 +26,9 @@
 <a href="https://kaggle.com/dilshansankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dilshansankalpa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dilshan_sankalpa_dissanayake/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilshan_sankalpa_dissanyake" height="30" width="40" /></a>
 <a href="https://medium.com/@dilshansankalpadissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dilshansankalpadissanayake" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCX2NK2zusH60m5FQEDAeOkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilshan sankalpa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCX2NK2zusH60m5FQEDAeOkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilshan sankalpa" height="30" width="40" /></a><a href="https://www.hackerrank.com/dilshansankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dilshansankalpa" height="30" width="40" /></a>
 </p>
 
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshansankalpa&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dilshansankalpa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshansankalpa&show_icons=true&locale=en&theme=onedark" alt="dilshansankalpa" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshansankalpa&theme=onedark" alt="dilshansankalpa" /></p> 
 

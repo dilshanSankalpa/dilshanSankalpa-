@@ -1,14 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshansankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="dilshansankalpa" /> </p>
-<a href="https://app.daily.dev/dilshansankalpa"><img src="https://api.daily.dev/devcards/194bd9b72de44d9ba4479bae8c3be924.png?r=afb" width="400" alt="Dilshan Sankalpa's Dev Card"/></a>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshansankalpa&theme=onedark" alt="dilshansankalpa" /></a> </p>
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1JaaewdBgEMudr1c5oxNjl6beRv04ptr0?usp=sharing)
+### 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1JaaewdBgEMudr1c5oxNjl6beRv04ptr0?usp=sharing)
 
 <p>
 

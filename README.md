@@ -1,4 +1,4 @@
-# Hi, i'm Dila 👋
+# Hi, I'm Dila 👋
 
 ### ✍️ Random Dev Quote : 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -11,7 +11,7 @@
   
 </p>
 
-### 📄 Know about my experiences : *[Resume](https://github.com/dilshanSankalpa/dilshanSankalpa/blob/main/My%20CV.pdf)https://github.com/dilshanSankalpa/dilshanSankalpa/blob/main/My%20CV.pdf)*
+### 📄 Know about my experiences : *[Resume](https://github.com/dilshanSankalpa/dilshanSankalpa/blob/main/My%20CV.pdf)*
 
 
 

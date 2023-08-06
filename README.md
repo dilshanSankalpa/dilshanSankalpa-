@@ -1,8 +1,5 @@
 # Hi, I'm Dila 👋
 
-### ✍️ Random Dev Quote : 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🤫 About Me :
 
 <p>

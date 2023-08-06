@@ -11,7 +11,7 @@
   
 </p>
 
-### 📄 Know about my experiences : *[Resume](https://github.com/dilshanSankalpa/dilshanSankalpa/blob/main/resume.pdf)*
+### 📄 Know about my experiences : *[Resume](https://github.com/dilshanSankalpa/dilshanSankalpa/blob/main/My%20CV.pdf)https://github.com/dilshanSankalpa/dilshanSankalpa/blob/main/My%20CV.pdf)*
 
 
 
